@@ -1,6 +1,6 @@
 # WordleCheater
 
-Simple Java script that helps Wordle enthusiasts solve their daily puzzle!
+Simple Python script that helps Wordle enthusiasts solve their daily puzzle!
 
 ### Sample Usage:
 
